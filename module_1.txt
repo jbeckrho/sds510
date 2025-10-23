@@ -1,3 +1,6 @@
+Jeffrey Beck Rhone
+SDS 510 Module 1 Project 
+
 Script started on 2025-10-23 01:24:11-07:00 [TERM="xterm-256color" TTY="/dev/tty1" COLUMNS="157" LINES="88"]
 To run a command as administrator (user "root"), use "sudo <command>".
 See "man sudo_root" for details.
